@@ -40,4 +40,4 @@ Contribuições para a melhoria deste projeto são bem-vindas. Sinta-se à vonta
 
 **Contato**
 
-Para mais informações ou dúvidas relacionadas a este projeto, entre em contato com [seu_nome] via e-mail: [seu_email].
+Para mais informações ou dúvidas relacionadas a este projeto, entre em contato com [Gabriel Veloso] via e-mail: [velosogabriel5@gmail.com].
